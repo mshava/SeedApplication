@@ -54,7 +54,12 @@ Be sure to have instructions specific to your project in your `Readme.md` file
 
 ## Maintain it
 
-## Things to be done
+## Things to be done:
+
+*Need to create add_application handlebar that connects to the data for people to add their applications for jobs.
+*Create route in my index.js to connect the handlebar.
+*Create a route in my main HTML for dispaying the form.
+
 
 It's is important that you keep your seed application up to date with the latest things you have learned. And also to create new Seed Applications as you learn new languages and technologies.
 
