@@ -54,6 +54,8 @@ Be sure to have instructions specific to your project in your `Readme.md` file
 
 ## Maintain it
 
+## Things to be done
+
 It's is important that you keep your seed application up to date with the latest things you have learned. And also to create new Seed Applications as you learn new languages and technologies.
 
 Have Fun!
